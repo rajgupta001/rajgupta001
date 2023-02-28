@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif?cid=ecf05e47nhos3b3wa6c1652akn6ehbxuqi0nan2p0turlp2f&rid=giphy.gif&ct=g)
+
 # 💫 About Me:
 - 👋 Hi, I’m Raj gupta<br>- 👀 I’m passionate about coding<br>- 🌱 I’m currently learning c++<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me mail me on rajguptah@gmail.com<br>-💕 A Complier execute a code faster than you, you execute your love life
 <img align="right" alt="coding" width=300 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU2NzllNzIyMTIxMmNlZjZkMWEyODlkODQzNjY2MDI4ZmY0MWRlYiZjdD1z/Ll22OhMLAlVDb8UQWe/giphy.gif">
