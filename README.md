@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rajgupta001 
-- 👀 I’m interested in doing coding
+- 👋 Hi, I’m Raj gupta
+- 👀 I’m passionate about coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me mail me on rajguptah@gmail.com
