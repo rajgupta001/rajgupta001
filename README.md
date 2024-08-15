@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-- 👋 Hi, I’m Raj gupta<br>- 👀 I’m passionate about Coding<br>- <br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me mail me on rajguptah@gmail.com<br>-💕 A Complier execute a code faster than, you execute your love life
+- 👋 Hi, I’m Raj gupta<br>- 👀 I’m passionate about Coding<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me mail me on rajguptah@gmail.com<br>-💕 A Complier execute a code faster than, you execute your love life
 <img align="right" alt="coding" width=300 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU2NzllNzIyMTIxMmNlZjZkMWEyODlkODQzNjY2MDI4ZmY0MWRlYiZjdD1z/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 ## 🌐 Socials:
