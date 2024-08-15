@@ -7,13 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gupta_raj_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-gupta-49b96a211) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@rajgupta60121325) 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16zVtukqUkRDIYj9fm9olz4VlHJOo2Vjt/view?usp=sharing](https://drive.google.com/file/d/16zVtukqUkRDIYj9fm9olz4VlHJOo2Vjt/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rj gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rj gupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-gupta-49b96a211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-gupta-49b96a211/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rajgupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajgupta/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rajguptah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rajguptah/" height="30" width="40" /></a>
-</p>
 
 
 # 💻 Tech Stack:
